@@ -1,0 +1,2 @@
+# sorinho
+IRC bot
