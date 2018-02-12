@@ -1,0 +1,13 @@
+{
+    "prefix": "soro!sid175647@apache/committer/danielsoro",
+    "nick": "soro",
+    "user": "sid175647",
+    "host": "apache/committer/danielsoro",
+    "command": "PRIVMSG",
+    "rawCommand": "PRIVMSG",
+    "commandType": "normal",
+    "args": [
+        "#linuxers",
+        "@s0r0b0t  arg1 arg2 arg3"
+    ]
+}
