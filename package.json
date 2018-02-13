@@ -3,12 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
+  "engines": {
+    "node": ">=9.5.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Daniel 'soro' Cunha <danielsoro@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "irc": "^0.5.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0"
   }
 }
